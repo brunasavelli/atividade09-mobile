@@ -1,0 +1,13 @@
+.header {
+    background-color: plum;
+    width: 100%;
+    text-align: center;
+    position:  fixed;
+    top: 0;
+    left: 0;
+}
+.header h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
